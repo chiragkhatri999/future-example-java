@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: completable-future-example
+logging:
+  level:
+    root: INFO
